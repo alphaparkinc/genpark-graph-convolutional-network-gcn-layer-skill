@@ -1,0 +1,20 @@
+{
+  "name": "genpark-graph-convolutional-network-gcn-layer-skill",
+  "version": "1.0.0",
+  "description": "Spectral Graph Convolutional Network (GCN) layer with self-loop renormalization and forward propagation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "gcn",
+    "graph-convolutional-network",
+    "graph-neural-networks",
+    "spectral-graph-theory",
+    "message-passing",
+    "python-standard-library",
+    "agent-skills",
+    "deep-learning",
+    "node-classification",
+    "adjacency-normalization"
+  ]
+}
